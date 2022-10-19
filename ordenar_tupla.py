@@ -1,0 +1,5 @@
+t = ('C', 'h', 'R', 'm', 'A', 's', 'M', 'o', 'T', 'y', 'c')
+l = list(t)
+l.sort()
+t = tuple(l)
+print(t)
